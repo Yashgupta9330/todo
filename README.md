@@ -7,8 +7,9 @@ Clone the repository to your local machine by running the following command in y
 ```bash
 git clone https://github.com/Yashgupta9330/todo.git
 
- Write in terminal: git clone https://github.com/Yashgupta9330/todo.git
+### Second Step:
+  npm install
 
- then write  -> npm i
- then run -> npm run dev
+### Third Step:
+  npm run dev
 
