@@ -1,15 +1,31 @@
- ## To Run This Project
+## To Run This Project
 
-### First Step:
+### Prerequisites
+- Node.js installed on your machine
 
-Clone the repository to your local machine by running the following command in your terminal:
+### Installation
 
-```bash
-git clone https://github.com/Yashgupta9330/todo.git
+1. **Clone the repository to your local machine:**
+    ```bash
+    git clone https://github.com/Yashgupta9330/todo.git
+    ```
 
-### Second Step:
-  npm install
+2. **Navigate into the project directory:**
+    ```bash
+    cd todo
+    ```
 
-### Third Step:
-  npm run dev
+3. **Install project dependencies using npm:**
+    ```bash
+    npm install
+    ```
+
+### Usage
+
+4. **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+
+5. **Open your web browser and navigate to http://localhost:3000 to view the project.**
 
