@@ -27,5 +27,5 @@
     npm run dev
     ```
 
-5. **Open your web browser and navigate to http://localhost:3000 to view the project.**
+5. **Open your web browser and navigate to http://localhost:5173 to view the project.**
 
